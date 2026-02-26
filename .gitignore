@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Playwright artifacts
+test-results/
+playwright-report/
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
